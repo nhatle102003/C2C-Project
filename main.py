@@ -3,6 +3,7 @@
 #2. Add new comand, such as !help for lists for instruction a user can type to use the Bot.(Done)
 #3. If possible, create a HTML page for my Bot.
 #4. Add some stuff just for fun (Put something here if you have an idea: )
+# Added ci.yml
 
 from client import key, Responses
 
